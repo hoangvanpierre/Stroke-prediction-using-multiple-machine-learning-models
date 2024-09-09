@@ -1,5 +1,5 @@
 # Stroke-prediction-using-multiple-machine-learning-models
-Stroke is one of the leading causes of death and disability worldwide.. In this study, i will apply multiple machine learning models to predict stroke risk, including K-Nearest Neighbors (KNN), Decision Tree, Random Forest, Support Vector Machine (SVM), and Logistic Regression.
+Stroke is one of the leading causes of death and disability worldwide. In this study, i will apply multiple machine learning models to predict stroke risk, including K-Nearest Neighbors (KNN), Decision Tree, Random Forest, Support Vector Machine (SVM), and Logistic Regression.
 
 This paper addresses the issue of stroke, one of the major challenges in the healthcare field, and focuses on developing a stroke prediction model using machine learning methods. Stroke is becoming an increasingly important public health threat, and the ability to predict risks before they occur can help minimize the impact and provide effective treatment solutions.
 With the continuous development of medicine and technology, the use of machine learning to predict and prevent stroke is becoming increasingly feasible. We will introduce the important context of stroke, especially its significant impact on public health.
